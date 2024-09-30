@@ -1,0 +1,8 @@
+---
+title: "Dummy_page"
+format: html
+theme: cosmo
+editor: visual
+---
+
+This is a dummy page
