@@ -1,10 +1,4 @@
 ---
-title: "index"
-author: "Lana Hashm"
-date: "2024-09-30"
-output: html_document
----
----
 title: "Website"
 author: "Lana Hashem"
 format: html
@@ -13,7 +7,7 @@ execute:
   echo: false
 ---
 
-![](images/indiv_pic_oscar.jpg){fig-align="left" width="185"}
+![](images/indiv_pic_oscar.jpg){width="162"}
 
 **Bio**
 

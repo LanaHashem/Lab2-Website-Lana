@@ -7,7 +7,7 @@ execute:
   echo: false
 ---
 
-![](images/indiv_pic_oscar.jpg){fig-align="left" width="185"}
+![](images/indiv_pic_oscar.jpg){width="162"}
 
 **Bio**
 
