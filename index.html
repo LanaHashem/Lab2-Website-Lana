@@ -3,16 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website</title>
-    <link rel="stylesheet" href="assets/css/style.css"> <!-- Include your CSS file -->
+    <title>Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            color: #343a40;
+        }
+        img {
+            float: left;
+            margin-right: 15px;
+            width: 185px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
 </head>
 <body>
-
-    <h1>Welcome to My Website</h1>
-
-    <h2>Bio</h2>
-    <img src="images/indiv_pic_oscar.jpg" alt="Lana Hashem" style="float:left; width:185px;">
-    <p>My name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master's degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages.</p>
-
+    <div class="container">
+        <h1>Welcome to My Website</h1>
+        <h2>Bio</h2>
+        <img src="images/indiv_pic_oscar.jpg" alt="Lana Hashem">
+        <p>My name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master's degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages.</p>
+    </div>
 </body>
 </html>
