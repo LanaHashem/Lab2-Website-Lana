@@ -1,44 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My Website</title>
-    <link rel="stylesheet" href="assets/css/style.css"> <!-- Link to your CSS file -->
-    <style>
-        body {
-            font-family: Arial, sans-serif; /* Default font */
-            margin: 0;
-            padding: 20px;
-            background-color: #f8f9fa; /* Light background color */
-        }
-        h1 {
-            color: #343a40; /* Darker color for headers */
-        }
-        img {
-            float: left; /* Align image to the left */
-            margin-right: 15px; /* Space between image and text */
-            width: 185px; /* Width of the image */
-        }
-        p {
-            line-height: 1.6; /* Line height for better readability */
-        }
-        .container {
-            max-width: 800px; /* Max width for content */
-            margin: auto; /* Center the content */
-            background: white; /* White background for the content area */
-            padding: 20px; /* Padding inside the content area */
-            border-radius: 5px; /* Rounded corners */
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Welcome to My Website</h1>
-        <h2>Bio</h2>
-        <img src="images/indiv_pic_oscar.jpg" alt="Lana Hashem">
-        <p>My name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master's degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages.</p>
-    </div>
-</body>
-</html>
+---
+title: "Website"
+author: "Lana Hashem"
+format: html
+editor: visual
+execute: 
+  echo: false
+---
+
+![](images/indiv_pic_oscar.jpg){fig-align="left" width="185"}
+
+**Bio**
+
+My name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master's degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages.
