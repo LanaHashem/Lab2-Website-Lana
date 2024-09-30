@@ -5,7 +5,7 @@ website:
   title: "Lana Hashem Website"
   navbar: 
     left:
-      - web.qmd
+      - index.qmd
       - about.qmd
       - dum1.qmd
       - dum2.qmd
