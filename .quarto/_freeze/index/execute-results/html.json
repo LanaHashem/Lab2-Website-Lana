@@ -1,0 +1,14 @@
+{
+  "hash": "03e4be435ce0bcef50dc50dda7e30a1f",
+  "result": {
+    "markdown": "---\ntitle: \"index\"\nauthor: \"Lana Hashm\"\ndate: \"2024-09-30\"\noutput: html_document\n---\n\n---\ntitle: \"Website\"\nauthor: \"Lana Hashem\"\nformat: html\neditor: visual\nexecute: \n  echo: false\n---\n\n\n![](images/indiv_pic_oscar.jpg){fig-align=\"left\" width=\"185\"}\n\n**Bio**\n\nMy name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master's degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
