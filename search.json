@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a website"
+  },
+  {
+    "objectID": "dum1.html",
+    "href": "dum1.html",
+    "title": "Dummy_page",
+    "section": "",
+    "text": "This is a dummy page"
+  },
+  {
+    "objectID": "dum2.html",
+    "href": "dum2.html",
+    "title": "dum2",
+    "section": "",
+    "text": "This is dummy page #2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website",
+    "section": "",
+    "text": "Bio\nMy name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master’s degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages."
+  }
+]
