@@ -2,6 +2,7 @@
 title: "Lana Hashem Website"
 author: "Lana Hashem"
 format: html
+theme: Slate
 editor: visual
 execute: 
   echo: false

@@ -12,4 +12,4 @@ website:
       - dum2.qmd
 format:
   html:
-    theme: flatly
+    theme: Slate
