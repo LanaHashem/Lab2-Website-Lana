@@ -7,9 +7,8 @@ website:
   navbar: 
     left:
       - index.qmd
-      - about.qmd
       - dum1.qmd
       - dum2.qmd
 format:
   html:
-    theme: Slate
+    theme: Flatly
