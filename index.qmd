@@ -1,5 +1,5 @@
 ---
-title: "Lana Hashem Website"
+title: "Lana Hashem's Website"
 author: "Lana Hashem"
 format: html
 theme: Flatly
@@ -8,7 +8,7 @@ execute:
   echo: false
 ---
 
-![](images/clipboard-89111768.png)
+![](images/picture rest-01.jpg){width="255"}
 
 **About me**
 
