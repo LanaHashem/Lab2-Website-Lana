@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is a website"
+    "text": "This is a website to showcase a brief bio of me and some of my work"
   },
   {
     "objectID": "dum1.html",
     "href": "dum1.html",
-    "title": "Dummy_page",
+    "title": "Some of My Projects",
     "section": "",
-    "text": "This is a dummy page"
+    "text": "Miniaturizing AI Models for Edge Deployment in Marine Vessel Classification\nIn collaboration with FedWriters Inc., I led a capstone project focused on designing lightweight AI models capable of performing real-time marine vessel classification on resource-constrained edge devices. Using QiandaoEAR22 acoustic dataset (19,694 WAV files), we extracted robust audio features like MFCC and Mel-spectrograms(Fig1), then applied model quanitzation from float32 to 8-int bit(Fig2) and pruning techniques to optimize for low-power deployment.\n\nFig 1: Filtered Average Spectrogram\nDespite reaching model size, we maintained 98% classification accuracy, enabling accurate vessel detection even in noisy, low-bandwidth environments. This project addressed real-world challenged like Doppler effect distortion and limited connectivity, contributing to the growing field of edge AI in environmental monitoring and defense applications.\n\nFig 2 model size comparison"
   },
   {
     "objectID": "dum2.html",
     "href": "dum2.html",
-    "title": "dum2",
+    "title": "Project 2",
     "section": "",
-    "text": "This is dummy page #2"
+    "text": "Evaluating Globlal Air Quality Using WHO Dataset\nThis project involved building an end-to-end data pipeline to analyze global air pollution trends using WHO Ambient Air Quality Database. I utilized Informatica PowerCenter to extract, clean, and load multi-source air quality data into a structured warehouse, integrated with Python and R for advanced statistical analysis.\nUsing AWS EC2 and S3, I handled cloud storage and processing, then created dashboards to visualize health outcomes and pollution disparities across continents. This work demonstrated my ability to bridge data engineering, cloud infrastructure, and data visualization to discover meaningful environmental insights."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website",
+    "title": "Lana Hashem Website",
     "section": "",
-    "text": "Bio\nMy name is Lana Hashem, and I am a recent bioengineering graduate currently completing an accelerated master’s degree in data analytics engineering at George Mason University. I have experience in Python, R, SQL, and C programming languages."
+    "text": "About me\nI’m Lana Hashem, a data analytics engineer and a bioengineer based in Northern Virginia, with a strong focus in machine learning, data visualization, and real-world problem solving. I hold a Master’s in Data Analytics Engineering and a Bachelor’s in Bioengineering, both from George Mason University where I graduated with Honors and made the Dean’s List numerous times.\nI specialize in transforming raw data into actionable insights. My academic and project experience range is wide, from healthcare and air quality analysis to edge AI deployment and virtual reality. Most recently, I partnered with FedWriters Inc. on a capstone project to miniaturize AI models for real-time vessel classification on edge devices under water, achieving 98% accuracy after quantization.\nWith a background in programming (Python, R, SQL, C/C#), cloud platforms (AWS), data pipelines and tools like TensorFlow Lite and Fusion360, I bring technical depth to the table. I’m also fluent in English and Arabic, with beginner proficiency in French.\nI’m passionate about using technology to solve meaningful challenges whether it’s building end-to-end analytics pipelines, deploying AI models in constrained environments, or designing intuitive data-driven systems."
   }
 ]

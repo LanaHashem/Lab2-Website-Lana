@@ -4,4 +4,4 @@ format: html
 editor: visual
 ---
 
-This is a website
+This is a website to showcase a brief bio of me and some of my work

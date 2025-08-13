@@ -1,7 +1,12 @@
 ---
-title: "dum2"
+title: "Project 2"
 format: html
+theme: cosmo
 editor: visual
 ---
 
-This is dummy page #2
+# **Evaluating Globlal Air Quality Using WHO Dataset**
+
+This project involved building an end-to-end data pipeline to analyze global air pollution trends using WHO Ambient Air Quality Database. I utilized Informatica PowerCenter to extract, clean, and load multi-source air quality data into a structured warehouse, integrated with Python and R for advanced statistical analysis.
+
+Using AWS EC2 and S3, I handled cloud storage and processing, then created dashboards to visualize health outcomes and pollution disparities across continents. This work demonstrated my ability to bridge data engineering, cloud infrastructure, and data visualization to discover meaningful environmental insights.
